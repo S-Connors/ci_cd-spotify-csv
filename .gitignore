@@ -1,0 +1,8 @@
+.env
+__pycache__/
+cred/*
+terraform/*
+.DS-Store
+**.csv
+scripts/tests/.env
+env/*
