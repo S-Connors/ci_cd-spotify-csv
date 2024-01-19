@@ -29,16 +29,6 @@ output_file_path = ** your file path **
 Spotify has some great documentation on how to create an app to find your  client id, secret and artist ID
 (https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
 
-AWS
-
-You will have to attach a role with access to your s3 bucket, EC2 instance and IAM.
-
-access_key = ** your aws access key **
-secret_access_key = ** your aws secret key **
-source_path = 
-bucket = 
-destination = 
-
 
 ## Usage
 
