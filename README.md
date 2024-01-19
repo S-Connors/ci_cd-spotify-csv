@@ -8,7 +8,7 @@
 ## Installation
 
 1. Clone the repository:
-    git clone 
+    git clone
 
 2. Install dependencies
     pip install requirements.txt
@@ -22,7 +22,7 @@ Spotify
 client_id = ** your spotify app client id **
  client_secret = ** your soptify client secret **
 url = 'https://accounts.spotify.com/api/token'
-base_url = 'https://api.spotify.com/v1/'
+base_url = 'https://api.spotify.com/v1/' 
 artist_id = ** artist id **
 output_file_path = ** your file path **
 
@@ -40,3 +40,5 @@ This was inspired by Steven Morse (https://stmorse.github.io/journal/spotify-api
 
 
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+CD processe not finished
