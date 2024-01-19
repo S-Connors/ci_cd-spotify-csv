@@ -10,7 +10,7 @@
 1. Clone the repository:
     git clone 
 
-2. Install deoendencies
+2. Install dependencies
     pip install requirements.txt
 
 ## Configuration
@@ -46,7 +46,7 @@ This project will connect to spotify and grab all of the specificed artists song
 
 ## Acknowledgements
 
-This was inspired by Steven Morse (https://stmorse.github.io/journal/spotify-api.html)
+This was inspired by Steven Morse (https://stmorse.github.io/journal/spotify-api.html) and WeCloudData
 
 
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
